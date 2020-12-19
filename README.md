@@ -20,7 +20,7 @@ You can use all tools and models seen during sessions.
 You can focus on abstracts or titles (less computational effort) or select a specific subset.
 Please : be aware to not use meta-data that help to predict the year ! It will improve dramatically
 your precision but destroy your analyse. For example, the place of the conference or edition number
-are a strong synonym of the year (the year of articles cited/referenced also)!</br>
+are a strong synonym of the year (the year of articles cited/referenced also) !</br>
 The number of articles per year are not equals. Be aware to force balanced year distribution
 between train/test/validation sets. For example, if year 2001 is present only in train articles and year
 2010 only in evaluation articles, it’s a loss of representativity in evaluation and train respectively.
