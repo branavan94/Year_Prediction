@@ -1,4 +1,5 @@
-# Year_Prediction
+# Year_Prediction :telescope:
+
 ## Introduction
 The goal of the project is to provide a model able to predict for a given scientific article on NLP the year of publication.
 You are in charge to split the data in train/test/validation sets with 80/10/10 respectively for
