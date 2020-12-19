@@ -25,3 +25,6 @@ are a strong synonym of the year (the year of articles cited/referenced also) !<
 The number of articles per year are not equals. Be aware to force balanced year distribution
 between train/test/validation sets. For example, if year 2001 is present only in train articles and year
 2010 only in evaluation articles, it’s a loss of representativity in evaluation and train respectively.
+
+
+Data can be found here : https://www.ortolang.fr/market/corpora/corpus-taln
