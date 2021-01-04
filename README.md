@@ -57,7 +57,7 @@ We first compute Tf-idf vectors for our different features to see if there is so
 #### Title 
 ![GitHub Logo](/images/title.png)
 #### Abstract
-![GitHub Logo](/images/abstract.png)
+![GitHub Logo](/images/asbtract.png)
 #### Keyword
 ![GitHub Logo](/images/keyword.png)
 
