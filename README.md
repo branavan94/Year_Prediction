@@ -72,8 +72,8 @@ For each of these features, we vectorize it with the top 50 words and insert it 
 ![GitHub Logo](/images/models.png)
 Problem is, we obtain a MSE varying between 25.5 and 34.0 according to the three features. Title seems to give better results in the test set, so that would mean the feature has less text.
 If we focus on our error, we see that our model doesn’t predict the year quite precisely. It does predict something around the year 2000, but fail to go further than that. 
-Let’s dig into the MSE distribution to see which years are difficult to predict for our model.
-![GitHub Logo](/images/firstmodel.png)
+Let’s dig into the MSE distribution to see which years are difficult to predict for our model. </br>
+![GitHub Logo](/images/titlemse.png)
 ![GitHub Logo](/images/secondmse.png)
 Here, we can see MSE error according to the years, for our prediction model based on Title and Corpus respectively.
 Our model doesn’t do really well on dates between 1998-2005 and between 2015 and 2019. A possible explanation would be the amount of data that we have. In fact when we compare this graph to the distribution of articles per year, we clearly see that the model does not do well on articles where he doesn’t have that much data.
